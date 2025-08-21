@@ -10,13 +10,13 @@
 ## 🔢 Sorting
 
 - **Bubble Sort** — [C++ code](./Bubble%20Sort.md)
-- **Insertion Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/InsertionSort.cpp)
-- **Selection Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/SelectionSort.cpp)
-- **Merge Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/MergeSort.cpp)
-- **Quick Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/QuickSort.cpp)
-- **Counting Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/CountingSort.cpp)
-- **Radix Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/RadixSort.cpp)
-- **Shell Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/ShellSort.cpp)
+- **Insertion Sort** — [C++ code](./Insertion%20Sort.md)
+- **Selection Sort** — [C++ code](./Selection%20Sort.md)
+- **Merge Sort** — [C++ code](./Merge%20Sort.md)
+- **Quick Sort** — [C++ code](./Quick%20Sort.md)
+- **Counting Sort** — [C++ code](./Counting%20Sort.md)
+- **Radix Sort** — [C++ code](./Radix%20Sort.md)
+- **Shell Sort** — [C++ code](./Shell%20Sort.md)
 
 ## 🌳 Binary Trees
 
