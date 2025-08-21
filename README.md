@@ -4,7 +4,7 @@
 
 ## 🔍 Searching
 
-- **Linear Search** — [C++ implementation](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/searching/linear_search.cpp)
+- **Linear Search** — [C++ (GFG)](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1)
 - **Binary Search** — [C++ (Leetcode)](https://leetcode.com/problems/binary-search/description/)
 
 ## 🔢 Sorting
