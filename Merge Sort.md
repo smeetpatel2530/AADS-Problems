@@ -46,7 +46,7 @@ public:
     }
     
     vector<int> mergeSort(vector<int> &nums) {
-        int n = nums.size(); // SIze of array
+        int n = nums.size(); 
         mergeSortHelper(nums, 0, n-1);
         return nums;
     }
