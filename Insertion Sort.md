@@ -5,7 +5,7 @@
 class Solution {
 public:
     vector<int> insertionSort(vector<int>& nums) {
-        int n = nums.size(); // Size of the array 
+        int n = nums.size(); 
         for (int i = 1; i < n; i++) {
             int key = nums[i]; 
             int j = i - 1; 
