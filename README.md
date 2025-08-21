@@ -9,7 +9,7 @@
 
 ## 🔢 Sorting
 
-- **Bubble Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/BubbleSort.cpp)
+- **Bubble Sort** — [C++ code](./Bubble%20Sort.md)
 - **Insertion Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/InsertionSort.cpp)
 - **Selection Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/SelectionSort.cpp)
 - **Merge Sort** — [C++ code](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/MergeSort.cpp)
