@@ -5,7 +5,7 @@
 ## 🔍 Searching
 
 - **Linear Search** — [C++ implementation](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/searching/linear_search.cpp)
-- **Binary Search** — [C++ implementation](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/searching/binary_search.cpp)
+- **Binary Search** — [C++ (Leetcode)](https://leetcode.com/problems/binary-search/description/)
 
 ## 🔢 Sorting
 
