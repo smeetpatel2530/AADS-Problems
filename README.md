@@ -24,6 +24,8 @@
 - **Inorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 - **Postorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 - **Level Order Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1743282910/)
+- **Construct Binary Tree from Inorder and Postorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
+- **Construct Binary Tree from Inorder and Preorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 - **Binary Trees (C++ Implementations)** — [TheAlgorithms - binary_tree](https://github.com/TheAlgorithms/C-Plus-Plus/tree/master/data_structures/binary_tree) | [djeada - BST](https://github.com/djeada/Algorithms-And-Data-Structures/tree/main/src/cpp/trees)
 
 ## 🌲 BSTs / AVL Trees
