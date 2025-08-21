@@ -20,10 +20,10 @@
 
 ## 🌳 Binary Trees
 
-- **Preorder Traversal** — [LeetCode - C++ Discussion](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
-- **Inorder Traversal** — [LeetCode - C++ Discussion](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
-- **Postorder Traversal** — [LeetCode - C++ Discussion](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
-- **Level Order Traversal** — [LeetCode - C++ Discussion](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/)
+- **Preorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+- **Inorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+- **Postorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
+- **Level Order Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/)
 - **Binary Trees (C++ Implementations)** — [TheAlgorithms - binary_tree](https://github.com/TheAlgorithms/C-Plus-Plus/tree/master/data_structures/binary_tree) | [djeada - BST](https://github.com/djeada/Algorithms-And-Data-Structures/tree/main/src/cpp/trees)
 
 ## 🌲 BSTs / AVL Trees
