@@ -33,7 +33,8 @@
 
 - **BST Search** — [LeetCode - C++](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1743892785/)
 - **BST Insert** — [LeetCode - C++](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1743895535/)
-- **AVL Trees** — [TheAlgorithms - AVL](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/avl_tree.cpp)
+- **AVL Tree Insertion** — [GFG - C++](https://www.geeksforgeeks.org/problems/avl-tree-insertion/1)
+- **AVL Tree Deletion** — [TheAlgorithms - AVL](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/avl_tree.cpp)
 
 
 ---
