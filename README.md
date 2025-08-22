@@ -28,12 +28,11 @@
 - **Construct Binary Tree from Inorder and Preorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 - **Maximum Depth of Binary Tree** — [LeetCode - C++](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1743875794/)
 - **Balanced Binary Tree** — [LeetCode - C++](https://leetcode.com/problems/balanced-binary-tree/submissions/1743879298/)
-- **Binary Trees (C++ Implementations)** — [TheAlgorithms - binary_tree](https://github.com/TheAlgorithms/C-Plus-Plus/tree/master/data_structures/binary_tree) | [djeada - BST](https://github.com/djeada/Algorithms-And-Data-Structures/tree/main/src/cpp/trees)
 
 ## 🌲 BSTs / AVL Trees
 
-- **BST Search** — [TheAlgorithms - Search in BST](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/binary_search_tree.cpp)
-- **BST Insert** — [TheAlgorithms - Insert in BST](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/binary_search_tree.cpp)
+- **BST Search** — [LeetCode - C++](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1743892785/)
+- **BST Insert** — [LeetCode - C++](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1743895535/)
 - **AVL Trees** — [TheAlgorithms - AVL](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/avl_tree.cpp)
 
 
