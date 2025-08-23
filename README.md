@@ -20,12 +20,12 @@
 
 ## 🌳 Binary Trees
 
-- **Preorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
-- **Inorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
-- **Postorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
+- **Preorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1745179221)
+- **Inorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1745179379)
+- **Postorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1745179596)
 - **Level Order Traversal** — [LeetCode - C++](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1743282910/)
-- **Construct Binary Tree from Inorder and Postorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
-- **Construct Binary Tree from Inorder and Preorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+- **Construct Binary Tree from Inorder and Postorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/1745181307)
+- **Construct Binary Tree from Inorder and Preorder Traversal** — [LeetCode - C++](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1745181851)
 - **Maximum Depth of Binary Tree** — [LeetCode - C++](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1743875794/)
 - **Balanced Binary Tree** — [LeetCode - C++](https://leetcode.com/problems/balanced-binary-tree/submissions/1743879298/)
 
