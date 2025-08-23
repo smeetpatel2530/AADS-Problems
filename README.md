@@ -5,7 +5,7 @@
 ## 🔍 Searching
 
 - **Linear Search** — [C++ (GFG)](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1)
-- **Binary Search** — [C++ (Leetcode)](https://leetcode.com/problems/binary-search/description/)
+- **Binary Search** — [C++ (Leetcode)](https://leetcode.com/problems/binary-search/submissions/1745178373)
 
 ## 🔢 Sorting
 
