@@ -38,15 +38,15 @@
 
 ## 📘 List of Programs
 
-- **Binary Trees** - [LeetCode - C++](https://leetcode.com/problems/maximum-binary-tree/description/)
-                  - [LeetCode - C++](https://leetcode.com/problems/binary-tree-pruning/description/)
-                  - [LeetCode - C++](https://leetcode.com/problems/merge-two-binary-trees/description/)
+- **Binary Trees** - [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/1760019381)
+                  - [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)
+                  - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)
 - **Binary Heap** - [LeetCode - C++](https://leetcode.com/problems/maximum-binary-tree/description/)
                   - [LeetCode - C++](https://leetcode.com/problems/binary-tree-pruning/description/)
                   - [LeetCode - C++](https://leetcode.com/problems/maximum-binary-tree/description/)
                   - [LeetCode - C++](https://leetcode.com/problems/binary-tree-pruning/description/)
 - **Searching Techniques**	- [LeetCode - C++](https://leetcode.com/problems/maximum-binary-tree/description/)
-- **Hashing** - [LeetCode - C++](https://leetcode.com/problems/two-sum/)
+- **Hashing** - [Two Sum](https://leetcode.com/problems/two-sum/submissions/1760023363)
               - [LeetCode - C++](https://leetcode.com/problems/group-anagrams/)
               - [LeetCode - C++](https://leetcode.com/problems/subarray-sum-equals-k/)
               - [LeetCode - C++](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -55,5 +55,6 @@
               - [LeetCode - C++](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
               - [LeetCode - C++](https://leetcode.com/problems/palindrome-pairs/)
               - [LeetCode - C++](https://leetcode.com/problems/binary-tree-pruning/description/)
+              - [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/)
 ---
 
