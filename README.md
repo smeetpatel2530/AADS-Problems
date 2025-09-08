@@ -45,7 +45,7 @@
                   - [LeetCode - C++](https://leetcode.com/problems/binary-tree-pruning/description/)
                   - [LeetCode - C++](https://leetcode.com/problems/maximum-binary-tree/description/)
                   - [LeetCode - C++](https://leetcode.com/problems/binary-tree-pruning/description/)
-- **Searching Techniques**	- [LeetCode - C++](https://leetcode.com/problems/maximum-binary-tree/description/)
+- **Searching Techniques**	- [LeetCode - C++](https://leetcode.com/problems/binary-search/submissions/1763228655)
 - **Hashing** - [Two Sum](https://leetcode.com/problems/two-sum/submissions/1760023363)
               - [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/1763221306)
               - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/1763224531)
