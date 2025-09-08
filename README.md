@@ -48,7 +48,7 @@
 - **Searching Techniques**	- [LeetCode - C++](https://leetcode.com/problems/maximum-binary-tree/description/)
 - **Hashing** - [Two Sum](https://leetcode.com/problems/two-sum/submissions/1760023363)
               - [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/1763221306)
-              - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+              - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/1763224531)
               - [Longest Substring without repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
               - [Top K frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
               - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
